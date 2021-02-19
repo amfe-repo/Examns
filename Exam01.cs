@@ -79,6 +79,7 @@ class Exam01{
 
     }
 
+
     public short LimitAmount(string bank_name){
 
         if (bank_name == "FDP INVERSMENT") return 20000;
