@@ -1,0 +1,13 @@
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns.deps.json
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns.runtimeconfig.json
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns.runtimeconfig.dev.json
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns.dll
+/mnt/d/Proyectos C#/Examns/bin/Debug/netcoreapp3.1/Examns.pdb
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.csprojAssemblyReference.cache
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.AssemblyInfoInputs.cache
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.AssemblyInfo.cs
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.csproj.CoreCompileInputs.cache
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.dll
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.pdb
+/mnt/d/Proyectos C#/Examns/obj/Debug/netcoreapp3.1/Examns.genruntimeconfig.cache
