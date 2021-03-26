@@ -44,6 +44,7 @@ class Exam01{
                     break;
 
                 default:
+
                     WriteLine("**Ha digitado un valor incorrecto**");
                     WriteLine($"**Presione cualquier tecla para volver al menu**");
                     break;
@@ -56,7 +57,7 @@ class Exam01{
         
     }
 
-    public void Retirement(string bank_name){
+    private void Retirement(string bank_name){
 
         short amount = 0, limit_amount = 0;
 
@@ -74,20 +75,22 @@ class Exam01{
             CalculateBills(amount);
 
         }else{
+
             Write("**El monto no entra en los parametros, intente de nuevo**");
+
         }
 
     }
 
 
-    public short LimitAmount(string bank_name){
+    private short LimitAmount(string bank_name){
 
         if (bank_name == "FDP INVERSMENT") return 20000;
         else return 10000;
 
     }
 
-    public void CalculateBills(short amount){
+    private void CalculateBills(short amount){
 
         double total = 0.0, new_amount = 0.0;
         string str = "";
