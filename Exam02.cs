@@ -1,6 +1,7 @@
 using System;
 using static System.Console;
 using External.Exam02.Exercise01;
+using External.Exam02.Exercise02;
 using System.Collections.Generic;
 
 class Exam02 {
@@ -79,7 +80,10 @@ class Exam02 {
     }
 
     public void MainExercise02Exam02() {
-        
+
+       FunctionsUtil.ViewEmployees(FunctionsUtil.Charge());
+       FunctionsUtil.HigherEmployees(FunctionsUtil.Charge());
+
     }
 
 }
